@@ -5,7 +5,7 @@ This is a custom Twine 2 format that renders a story as a printable, linear bloc
 ## Loading in Twine 2
 
 In Twine 2, click on Story Formats. Go to the 'Add a New Format' tab. Copy and paste the following URL and then click '+Add':
-`https://ker0chan.github.io/poste-monstre-tresor-story-format/dist/format.js`
+`https://diane1f0cd.github.io/poste-monstre-tresor-story-format/dist/format.js`
 
 ## Example
 
